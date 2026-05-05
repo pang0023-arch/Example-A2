@@ -1,9 +1,12 @@
 ---
 title: "example"
-format: html
+author: Pei Sin Ang
+format: 
+  html:
+    theme: cosmo
 editor: visual
 ---
 
-I made a different edit here in my main branch and this will certainly give me a merge conflict
+I made a different edit here in my main branch, removed the sample qmd guide and replaced it with this sentence.
 
-My yaml is also not edited here.
+I also added my name as the author in the yaml above and set the html theme to cosmo.
